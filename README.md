@@ -75,3 +75,6 @@ on the edge](https://ieeexplore.ieee.org/abstract/document/9151086), CVPRW, July
 
 36- M. Cococcioni et. al., [A Lightweight Posit Processing Unit for RISC-V Processors in Deep Neural Network Applications](https://ieeexplore.ieee.org/document/9583876), TETC, Oct. 21. 
 
+# 2022
+37- M. Cococcioni et. al., [ Small reals representations for Deep Learning at the edge: a comparison ] (https://www.researchgate.net/publication/358884612_Small_reals_representations_for_Deep_Learning_at_the_edge_a_comparison),
+in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), 2022
