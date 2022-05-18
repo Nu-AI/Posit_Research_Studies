@@ -48,7 +48,7 @@ on the edge](https://ieeexplore.ieee.org/abstract/document/9151086), CVPRW, July
 
 23- M. Cococcioni et. al., [A Novel Posit-based Fast Approximation of ELU Activation Function for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9239674), SMARTCOMP, Sept. 14. 
 
-24- Suresh Nambi et. al., [ExPAN(N)D: Exploring Posits for Efficient Artificial Neural Network Design in FPGA-based Systems] (https://ieeexplore.ieee.org/abstract/document/9492075), IEEE Access, Oct. 24.
+24- Suresh Nambi et. al., [ExPAN(N)D: Exploring Posits for Efficient Artificial Neural Network Design in FPGA-based Systems](https://ieeexplore.ieee.org/abstract/document/9492075), IEEE Access, Oct. 24.
 
 25-  M. Cococcioni et. al., [Novel Arithmetics in Deep Neural Networks Signal Processing for Autonomous Driving: Challenges and Opportunities](https://ieeexplore.ieee.org/abstract/document/9307291), IEEE SPM, Dec. 24. 
 
