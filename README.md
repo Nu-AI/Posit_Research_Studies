@@ -78,3 +78,4 @@ on the edge](https://ieeexplore.ieee.org/abstract/document/9151086), CVPRW, July
 # 2022
 37- M. Cococcioni et. al., [ Small reals representations for Deep Learning at the edge: a comparison ](https://www.researchgate.net/publication/358884612_Small_reals_representations_for_Deep_Learning_at_the_edge_a_comparison),
 in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
+38- M. Zolfagharinejad et al. , [Posit Process Element for Using in Energy-Efficient DNN Accelerators](https://ieeexplore.ieee.org/document/9761139), TVLSI, April, 21. 
