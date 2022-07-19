@@ -78,14 +78,13 @@ on the edge](https://ieeexplore.ieee.org/abstract/document/9151086), CVPRW, July
 37- S. Walia et al. , [Fast and low-power quantized fixed posit high-accuracy DNN implementation.](https://ieeexplore.ieee.org/abstract/document/9764927), TVLSI, Dec, 10.
 
 # 2022
-38- M. Cococcioni et. al., [ Small reals representations for Deep Learning at the edge: a comparison ]
-(https://link.springer.com/chapter/10.1007/978-3-031-09779-9_8),
+38- M. Cococcioni et. al., [ Small reals representations for Deep Learning at the edge: a comparison ](https://link.springer.com/chapter/10.1007/978-3-031-09779-9_8),
 in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
 
-39- H. F. Langroudi et. al., [ACTION: Automated Hardware-Software Codesign Framework for Low-precision Numerical Format SelecTION in TinyML] (https://link.springer.com/chapter/10.1007/978-3-031-09779-9_4), in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
+39- H. F. Langroudi et. al., [ACTION: Automated Hardware-Software Codesign Framework for Low-precision Numerical Format SelecTION in TinyML](https://link.springer.com/chapter/10.1007/978-3-031-09779-9_4), in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
 
-40- Nhut-Minh Ho et. al., [Qtorch+: Next Generation Arithmetic for Pytorch Machine Learning] (https://link.springer.com/chapter/10.1007/978-3-031-09779-9_3), in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
+40- Nhut-Minh Ho et. al., [Qtorch+: Next Generation Arithmetic for Pytorch Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-09779-9_3), in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
 
-41- Orégane Desrentes et. al., [A Posit8 Decompression Operator for Deep Neural Network Inference] (https://link.springer.com/chapter/10.1007/978-3-031-09779-9_2),  in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
+41- Orégane Desrentes et. al., [A Posit8 Decompression Operator for Deep Neural Network Inference](https://link.springer.com/chapter/10.1007/978-3-031-09779-9_2),  in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
 
 42- M. Zolfagharinejad et al. , [Posit Process Element for Using in Energy-Efficient DNN Accelerators](https://ieeexplore.ieee.org/document/9761139), TVLSI, April, 21. 
