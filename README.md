@@ -85,6 +85,8 @@ in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2
 
 40- Nhut-Minh Ho et. al., [Qtorch+: Next Generation Arithmetic for Pytorch Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-09779-9_3), in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
 
-41- Orégane Desrentes et. al., [A Posit8 Decompression Operator for Deep Neural Network Inference](https://link.springer.com/chapter/10.1007/978-3-031-09779-9_2),  in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
+41- O. Desrentes et. al., [A Posit8 Decompression Operator for Deep Neural Network Inference](https://link.springer.com/chapter/10.1007/978-3-031-09779-9_2),  in Proc. of the Int. Conference on Next Computer Arithmetics (CoNGA'22), March 2.
 
 42- M. Zolfagharinejad et al. , [Posit Process Element for Using in Energy-Efficient DNN Accelerators](https://ieeexplore.ieee.org/document/9761139), TVLSI, April, 21. 
+
+43-Y. Nakahara et al. , [A Posit Based Multiply-accumulate Unit with Small Quire Size for Deep Neural Networks](https://www.jstage.jst.go.jp/article/ipsjtsldm/15/0/15_16/_article/-char/en), IPSJ-LSI, June 14. 
