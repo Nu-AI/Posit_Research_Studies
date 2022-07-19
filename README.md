@@ -87,8 +87,10 @@ CoNGA'22, March 2.
 
 41- O. Desrentes et. al., [A Posit8 Decompression Operator for Deep Neural Network Inference](https://link.springer.com/chapter/10.1007/978-3-031-09779-9_2),  CoNGA'22, March 2.
 
-42- M. Cococcioni et. al., [Experimental Results of Vectorized Posit-Based DNNs on a Real ARM SVE High Performance Computing Machine](https://link.springer.com/chapter/10.1007/978-3-030-95498-7_9), APPLEPIES, March 2.
+42- M. Cococcioni et. al., [Experimental Results of Vectorized Posit-Based DNNs on a Real ARM SVE High Performance Computing Machine](https://link.springer.com/chapter/10.1007/978-3-030-95498-7_9), APPLEPIES, April 9.
 
 42- M. Zolfagharinejad et al. , [Posit Process Element for Using in Energy-Efficient DNN Accelerators](https://ieeexplore.ieee.org/document/9761139), TVLSI, April, 21. 
 
 43-Y. Nakahara et al. , [A Posit Based Multiply-accumulate Unit with Small Quire Size for Deep Neural Networks](https://www.jstage.jst.go.jp/article/ipsjtsldm/15/0/15_16/_article/-char/en), IPSJ-LSI, June 14. 
+
+44- Yang Wang et. al, [PL-NPU: An Energy-Efficient Edge-Device DNN Training Processor With Posit-Based Logarithm-Domain Computing](https://ieeexplore.ieee.org/abstract/document/9803862), TCAS-I, June 22. 
